@@ -23,3 +23,7 @@
 
 ### Soft skills
 - Proactive and dedicated.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniocc&show_icons=true&theme=graywhite&count_private=true)
+
+[default_repocard]
