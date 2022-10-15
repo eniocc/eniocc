@@ -17,6 +17,7 @@
   - Mobile Development Specialist.
   - Forensic Computing Specialist.
   - Master in Electrical Engineering.
+  - Phd Candidate in Computer Science.
 
 ### Personal stuffs
 - Swimming and Photography
