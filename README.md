@@ -1,7 +1,7 @@
 ### 👋 I'm Ênio
 
 ##### Change the language here
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/eniocc/eniocc/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/eniocc/eniocc/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/eniocc/eniocc/blob/main/README.pt-br.md)
 
 ### Reach me! 
