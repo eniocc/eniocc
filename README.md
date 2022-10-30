@@ -20,7 +20,7 @@
   - Phd Candidate in Computer Science.
 
 ### Personal stuffs
-- Swimming and Photography
+- Swimming and Photography.
 
 ### Soft skills
 - Proactive and dedicated.
