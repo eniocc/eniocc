@@ -11,16 +11,20 @@
 
 ### About me
 - Actually I'm Criminal Expert of IT. 
-- I'm currently working on some open source projects like [py-dss-interface](https://github.com/eniocc/py_dss_interface), [py-dss-tools](https://github.com/eniocc/py_dss_tools) and [bdgd-tools](https://github.com/eniocc/bdgd-tools).
+- I'm currently working on some open source projects.
 - I'm ...
-  - Bachelor in Computer Science.
-  - Mobile Development Specialist.
-  - Forensic Computing Specialist.
-  - Master in Electrical Engineering.
-<!--- - Phd Candidate in Computer Science. --->
+  - Undergraduate in Mechanical Engineering;
+  - Bachelor in Computer Science;
+  - Mobile Development Specialist;
+  - Forensic Computing Specialist;
+  - Master in Electrical Engineering;
+  - Phd Candidate in Computer Science.
 
 ### Personal stuffs
-- Swimming and Photography.
+- Eletronics;
+- Swimming;
+- Photography;
+- Hiking.
 
 ### Soft skills
 - Proactive and dedicated.
