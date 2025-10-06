@@ -11,13 +11,11 @@
 
 ### About me
 - Actually I'm Criminal Expert of IT. 
-- I'm currently working on some open source projects.
-- I'm ...
-  - Undergraduate in Mechanical Engineering;
-  - Bachelor in Computer Science;
-  - Mobile Development Specialist;
-  - Forensic Computing Specialist;
-  - Master in Electrical Engineering.
+- Undergraduate in Mechanical Engineering;
+- Bachelor in Computer Science;
+- Mobile Development Specialist;
+- Forensic Computing Specialist;
+- Master in Electrical Engineering.
 
 ### Personal stuffs
 - Eletronics;
