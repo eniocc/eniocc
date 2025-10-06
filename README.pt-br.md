@@ -10,8 +10,7 @@
 <img align="right" height="200" src="https://github.com/Lucas-Godoi/Lucas-Godoi/blob/main/computer_cat.gif"/>
 
 ### Sobre
-- Sou:
--  Perito Criminal de TI
+-  Perito Criminal de TI;
 -  Bacharelando em Engenharia Mecatrônica;
 -  Bacharel em Ciência da Computação;
 -  Especialista em Desenvolvimento para Aplicativos Móveis;
