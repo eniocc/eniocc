@@ -10,7 +10,7 @@
 <img align="right" height="200" src="https://github.com/Lucas-Godoi/Lucas-Godoi/blob/main/computer_cat.gif"/>
 
 ### About me
-- Actually I'm Criminal Expert of IT. 
+- Actually I'm Criminal Expert of IT.;
 - Undergraduate in Mechanical Engineering;
 - Bachelor in Computer Science;
 - Mobile Development Specialist;
