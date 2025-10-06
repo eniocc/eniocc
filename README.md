@@ -17,8 +17,7 @@
   - Bachelor in Computer Science;
   - Mobile Development Specialist;
   - Forensic Computing Specialist;
-  - Master in Electrical Engineering;
-  - Phd Candidate in Computer Science.
+  - Master in Electrical Engineering.
 
 ### Personal stuffs
 - Eletronics;
