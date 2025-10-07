@@ -11,7 +11,6 @@
 
 ### Sobre
 -  Perito Criminal de TI;
--  Bacharelando em Engenharia Mecatrônica;
 -  Bacharel em Ciência da Computação;
 -  Especialista em Desenvolvimento para Aplicativos Móveis;
 -  Especialista em Computação Forense;
